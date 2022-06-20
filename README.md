@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surajit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **surajitghosh50@gmail.com**
+- 📫 How to reach me **surajit@einetic.com**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thesrjt&icon=0&color=1)](https://visitcount.itsvg.in)
