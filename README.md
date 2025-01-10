@@ -21,6 +21,7 @@
 <br/><br/> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) 
 # 📊GitHub Stats : 
 <!--![](https://github-readme-stats.vercel.app/api?username=thesrjt&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=thesrjt&theme=dark&hide_border=true)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=thesrjt&theme=dark&hide_border=true)<br/>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thesrjt)](https://github.com/anuraghazra/github-readme-stats)
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesrjt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
