@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Surajit (SRJT)</h1>
+<h1 align="center">Hey 👋, I'm Surajit Ghosh (SRJT)</h1>
 <h3 align="center">A passionate frontend developer from India | Founder of <a href="https://www.einetic.com">Einetic</a> | AI Enthusiast | Frontend + Full Stack + UI/UX Expert</h3>
 
 <p align="center">
