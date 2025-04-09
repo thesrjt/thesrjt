@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm Surajit (SRJT)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
- 
-- 📫 Reach me at **surajit@einetic.com**
+<h1 align="center">Hey 👋, I'm Surajit (SRJT)</h1>
+<h3 align="center">A passionate frontend developer from India | Founder of <a href="https://www.einetic.com">Einetic</a> | AI Enthusiast | Frontend + Full Stack + UI/UX Expert</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+scalable+automated+systems;Designing+stellar+UX+and+AI+experiences;Crafting+with+love+%F0%9F%92%96+since+2012" alt="Typing SVG">
+</p>
 
 ---
+
+### 🚀 A Bit About Me
+
+- 🔬 Currently deep in the world of **LLMs and AI**, engineering two autonomous agents — **Anton** and **Olek** — built to think, adapt, and learn.  
+- 🧠 Creator of [**Erudition Paper**](https://erudition.co.in/) — decoding advanced AI concepts into bite-sized brilliance.  
+- 🧭 Founder of [**Einetic**](https://www.einetic.com), where I design next-gen digital ecosystems that actually scale.  
+- 🛠️ With **12+ years** in the game, I’ve mastered the art of **Ecommerce Automations**, **UI/UX**, and **Frontend craftsmanship**.  
+- 🧠 I **architect complete software systems** — from scratch — fully automated, totally scalable, and tailored for real-world use.  
+- 🎨 I solve hard problems with clean logic, sharp design, and a sprinkle of obsession for detail.  
+
+---
+ 
+- 📫 Reach me at **surajit@einetic.com**
 
 [![](https://visitcount.itsvg.in/api?id=thesrjt&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -20,6 +35,21 @@
 <br/><br/> ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
 <br/><br/> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=thesrjt&theme=dark&hide_border=false)<br/>
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thesrjt&theme=onedark&column=7&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thesrjt&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thesrjt&show_icons=true&theme=dark&hide_border=false&rank_icon=github" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesrjt&layout=compact&theme=dark&hide_border=false" />
+</p>
 
