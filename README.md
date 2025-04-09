@@ -54,7 +54,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesrjt&amp;theme=dark&amp;hide_border=false&amp;v=1" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=thesrjt&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;rank_icon=github" alt="GitHub Stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=thesrjt&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;rank_icon=github" alt="GitHub Stats" />-->
 
 </div>
 
