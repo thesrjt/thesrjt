@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India <br/> Founder of <a href="https://www.einetic.com">Einetic</a> | AI Enthusiast | Frontend + Full Stack + UI/UX Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+scalable+automated+systems;Designing+stellar+UX+and+AI+experiences;Crafting+with+love+%F0%9F%92%96+since+2012" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=333333&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+scalable+automated+systems;Designing+stellar+UX+and+AI+experiences;Crafting+with+love+%F0%9F%92%96+since+2012" alt="Typing SVG">
 </p>
 
 ---
