@@ -10,7 +10,7 @@
 ### 🚀 A Bit About Me
 
 - 🔬 Currently deep in the world of **LLMs and AI**, engineering two autonomous agents — **Anton** and **Olek** — built to think, adapt, and learn.  
-- 🧠 Creator of [**Erudition Paper**](https://erudition.co.in/) — decoding advanced AI concepts into bite-sized brilliance.  
+- 🧠 Creator of [**Erudition Paper**](https://erudition.co.in/) — decoding advanced Educational concepts into bite-sized brilliance.  
 - 🧭 Founder of [**Einetic**](https://www.einetic.com), where I design next-gen digital ecosystems that actually scale.  
 - 🛠️ With **12+ years** in the game, I’ve mastered the art of **Ecommerce Automations**, **UI/UX**, and **Frontend craftsmanship**.  
 - 🧠 I **architect complete software systems** — from scratch — fully automated, totally scalable, and tailored for real-world use.  
